@@ -164,22 +164,3 @@ body{
 .cart:hover .no-cart{
     display: block;
 }
-
-/* .qr-code{
-    width: 220px;
-    height: 220px;
-    padding: 10px;
-    background: white;
-    border-radius: 12px;
-    position: absolute;
-    display: none;
-    top: 24px;
-}
-
-.qr-code p {
-    cursor: pointer;
-}
-
-.header-nav-list-qr:hover .qr-code{
-    display: block;
-} */
