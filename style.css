@@ -3,6 +3,10 @@ header{
     width: 100%;
 }
 
+body{
+    margin: 0;
+}
+
 .header-top{
     display: flex;
     justify-content: space-between;
